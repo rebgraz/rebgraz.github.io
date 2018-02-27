@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Work in progress
+
+trying to figure out how to set-up my page!
 
 You can use the [editor on GitHub](https://github.com/rebgraz/rebgraz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
