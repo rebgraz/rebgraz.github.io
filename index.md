@@ -3,7 +3,7 @@
 Welcome to my webpage. I am Rebecca Graziani and I work as a researcher at Bocconi University in Milan Italy. 
 
 # Short Bio 
-I have received a a PhD in Statistics from the University of Trento and from 2002 I have a tenured position at [Bocconi University](http://didattica.unibocconi.eu/docenti/cv.php?rif=49290&cognome=GRAZIANI&nome=REBECCA).
+I have received a a PhD in Statistics from the University of Trento in 2000 and from 2002 I have a tenured position at [Bocconi University](http://didattica.unibocconi.eu/docenti/cv.php?rif=49290&cognome=GRAZIANI&nome=REBECCA).
 I was visiting scholar at the Mathematics Department of Imperial College, London, at the Economic Department of Oslo University and at Center di Estudis Demografics, Barcelona.
 
 I am currently a member of the Institute of Mathematical Statistics (IMS), the International Society for Bayesian Analysis (ISBA), the Biometrics Society and the Italian Statistical Society . 
