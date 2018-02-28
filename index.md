@@ -1,7 +1,3 @@
-## Work in progress
-
-I am trying to figure out how to set-up my page!
-
 ## Home 
 
 Welcome to my webpage. I am Rebecca Graziani and I work as a researcher at Bocconi University in Milan Italy. 
