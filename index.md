@@ -9,7 +9,7 @@ I was visiting scholar at the Mathematics Department of Imperial College, London
 I am currently a member of the Institute of Mathematical Statistics (IMS), the International Society for Bayesian Analysis (ISBA), the Biometrics Society and the Italian Statistical Society . 
 
 # Reaserch interests
-I am interest in bayesian methods and computational methods and their applications in social sciences. 
+I am interested in bayesian methods and computational methods and their applications in social sciences. 
 
 # Pubblications
  - Magni C. A., Veronese P., Graziani R.. 2017. Chisini means and rational decision making: equivalence of investment criteria. Mathematics and Financial Economics.
