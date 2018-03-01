@@ -11,7 +11,7 @@ I am currently a member of the Institute of Mathematical Statistics (IMS), the I
 # Research interests
 I am interested in bayesian methods and computational methods and their applications in social sciences. 
 
-# Pubblications
+# Publications
  - Magni C. A., Veronese P., Graziani R. 2017.[Chisini means and rational decision making: equivalence of investment criteria. Mathematics and Financial Economics.](https://www.springerprofessional.de/en/chisini-means-and-rational-decision-making-equivalence-of-invest/15110002)
 
 - Fattore G, Numerato D, Peltola M, Banks H, Graziani R, Heijnk R, Over E, Klitkou ST, Fletcher E, Mihalicza P, Sverèus S. 2015. [Variation and determinants of mortality and length of stay of very low birth weight and very low for gestational age infants in 7 European Countries. Health Economics 24 (Suppl. 2): 65-87.](http://onlinelibrary.wiley.com/doi/10.1002/hec.3261/abstract)
