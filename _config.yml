@@ -1,2 +1,4 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Welcome to Rebecca's homepage!
+
+theme: jekyll-theme-cayman
