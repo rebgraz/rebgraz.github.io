@@ -1,6 +1,7 @@
 # Home 
 
 Welcome to my webpage. I am Rebecca Graziani and I work as a researcher at Bocconi University in Milan Italy. 
+<img src="https://github.com/rebgraz/rebgraz.github.io/blob/master/foto_RGraziani.jpg" width="50">
 
 # Short Bio 
 I have received a a PhD in Statistics from the University of Trento in 2000 and from 2002 I have a tenured position at [Bocconi University](http://didattica.unibocconi.eu/docenti/cv.php?rif=49290&cognome=GRAZIANI&nome=REBECCA).
@@ -8,7 +9,7 @@ I was visiting scholar at the Mathematics Department of Imperial College, London
 
 I am currently a member of the Institute of Mathematical Statistics (IMS), the International Society for Bayesian Analysis (ISBA), the Biometrics Society and the Italian Statistical Society . 
 
-# Reaserch interests
+# Research interests
 I am interested in bayesian methods and computational methods and their applications in social sciences. 
 
 # Pubblications
