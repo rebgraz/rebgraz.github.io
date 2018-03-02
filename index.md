@@ -6,7 +6,9 @@ Welcome to my webpage. I am Rebecca Graziani and I work as a researcher at Bocco
 I have received a a PhD in Statistics from the University of Trento in 2000 and from 2002 I have a tenured position at [Bocconi University](http://didattica.unibocconi.eu/docenti/cv.php?rif=49290&cognome=GRAZIANI&nome=REBECCA).
 I was visiting scholar at the Mathematics Department of Imperial College, London, at the Economic Department of Oslo University and at Center di Estudis Demografics, Barcelona.
 
-I am currently a member of the Institute of Mathematical Statistics (IMS), the International Society for Bayesian Analysis (ISBA), the Biometrics Society and the Italian Statistical Society . 
+I am fellow of the [Dondena Center of Research on Social Dynamics and Public Policy](http://www.dondena.unibocconi.it/wps/wcm/connect/Cdr/Centro_Dondena/Home) and affiliate of the [Bocconi Institute for Data Science and Analytics](http://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home).
+
+I am currently a member of the Institute of Mathematical Statistics (IMS), the International Society for Bayesian Analysis (ISBA), the International Biometrics Society and the Italian Statistical Society . 
 
 # Research interests
 I am interested in bayesian methods and computational methods and their applications in social sciences. 
